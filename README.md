@@ -1,7 +1,7 @@
 - ♥️ Hi, I’m @MHussnainNawaz
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on Compeny
+- 💞️ I’m looking to collaborate with Compeny
 - 📫 How to reach me PH # +92 3268825250
 
 <!---
